@@ -1,0 +1,7 @@
+<Project>
+	<PropertyGroup>
+		<BaseIntermediateOutputPath>build\obj\</BaseIntermediateOutputPath>
+		<BaseOutputPath>build\bin\</BaseOutputPath>
+		<MSBuildProjectExtensionsPath>build\extensions</MSBuildProjectExtensionsPath>
+	</PropertyGroup>
+</Project>
